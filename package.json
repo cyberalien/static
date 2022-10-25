@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
-		"build": "npx sponsorkit"
+		"build": "sh build.sh"
 	},
 	"keywords": [],
 	"author": "Vjacheslav Trushkin",
