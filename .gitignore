@@ -3,7 +3,7 @@
 .DS_Store
 .env
 *.map
-static/*.json
+docs/*.json
 tsconfig.tsbuildinfo
 /node_modules
 /lib
