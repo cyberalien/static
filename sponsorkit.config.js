@@ -10,7 +10,7 @@ export default defineConfig({
 	// Rendering configs
 	width: 800,
 	formats: ['json', 'svg', 'png'],
-	outputDir: 'static',
+	outputDir: 'docs',
 	tiers: [
 		{
 			title: 'Backers',
