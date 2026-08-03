@@ -11,6 +11,6 @@
 	"author": "Vjacheslav Trushkin",
 	"license": "ISC",
 	"dependencies": {
-		"sponsorkit": "^17.0.0"
+		"sponsorkit": "^18.0.0"
 	}
 }
